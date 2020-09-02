@@ -1,1 +1,1 @@
-int chown() { return 0; }
+int chown() { return 0
