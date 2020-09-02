@@ -40,8 +40,7 @@ So we decided to improve this defect, and Torch-network was born. In addition to
  1. Build smart contracts（20200901）
  2. Start Ganache on（20200902）
 ```
-//Ropsten
-truffle console --network cheshire
+truffle console --network cheshire //Ropsten
 truffle(cheshire)> torchCore = KittyCore.at('0xd49F624B3C938d7C85288e1bA9061E6f26A60fd1')  
 truffle(cheshire)> torchCore.getKitty(1)
 ```
