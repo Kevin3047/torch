@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "ICO Crowdsale",
   "main": "truffle.js",
-  "directories": {
-    "test": "test"
-  },
+  "directories":test
   "scripts": {
     "all-crowdsale-tests": "./scripts/all-crowdsale-tests.sh",
     "all-token-tests": "./scripts/all-token-tests.sh",
